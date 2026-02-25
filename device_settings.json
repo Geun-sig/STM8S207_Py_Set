@@ -1,0 +1,62 @@
+{
+  "battery_type": 2,
+  "battery_settings": [
+    {
+      "float_charge_voltage": 13.8,
+      "max_charge_voltage": 14.4,
+      "max_charge_current": 9.0,
+      "max_discharge_current": 9.0,
+      "over_discharge_cutoff_voltage": 10.8,
+      "discharge_reconnect_voltage": 11.0,
+      "charge_current_setting": 3.0
+    },
+    {
+      "float_charge_voltage": 13.6,
+      "max_charge_voltage": 14.6,
+      "max_charge_current": 9.0,
+      "max_discharge_current": 9.0,
+      "over_discharge_cutoff_voltage": 10.0,
+      "discharge_reconnect_voltage": 12.0,
+      "charge_current_setting": 3.0
+    },
+    {
+      "float_charge_voltage": 16.0,
+      "max_charge_voltage": 16.8,
+      "max_charge_current": 9.0,
+      "max_discharge_current": 9.0,
+      "over_discharge_cutoff_voltage": 12.0,
+      "discharge_reconnect_voltage": 13.2,
+      "charge_current_setting": 3.1
+    },
+    {
+      "float_charge_voltage": 16.0,
+      "max_charge_voltage": 16.8,
+      "max_charge_current": 9.0,
+      "max_discharge_current": 9.0,
+      "over_discharge_cutoff_voltage": 12.0,
+      "discharge_reconnect_voltage": 13.2,
+      "charge_current_setting": 3.1
+    }
+  ],
+  "battery_capacity": 100.0,
+  "solar_voltage_max": 50.0,
+  "solar_power_max": 500.0,
+  "mppt_enable": true,
+  "temperature_compensation": true,
+  "temp_coeff": -0.003,
+  "temp_sensor_enable": true,
+  "over_voltage_protection": true,
+  "over_current_protection": true,
+  "over_temperature_protection": true,
+  "short_circuit_protection": true,
+  "reverse_polarity_protection": true,
+  "lcd_backlight_timeout": 60,
+  "data_log_interval": 10,
+  "serial_baud_rate": 9600,
+  "device_id": 1,
+  "load_output_enable": true,
+  "auto_power_off": 0,
+  "alarm_enable": true,
+  "reserved_1": 0.0,
+  "reserved_2": 0
+}
